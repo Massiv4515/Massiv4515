@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - 🧠 Systems-focused builder  
 - 🐧 Working with Linux, embedded systems, and networking  
 - 🛠️ Learn by building hands-on projects  
